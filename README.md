@@ -27,7 +27,7 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
    }
 ``` 
   
- # Contributors
+ # Contributors and participants
    Ricardo Lopez2
    Ricardo Lopez
    new change
