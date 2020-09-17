@@ -21,5 +21,10 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
   
  # [Referencia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
   
+ ```python
+   s = "Python syntax highlighting"
+    print s
+``` 
+  
  # Contributors
    Ricardo Lopez
