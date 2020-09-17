@@ -23,7 +23,7 @@ Ejemplo de repositorio del curso de Codigo Fuente avanzado
   
  ```java
    public static void main(){
-       Syste.out.println("Code Starts here");
+       System.out.println("Code Starts here");
    }
 ``` 
   
